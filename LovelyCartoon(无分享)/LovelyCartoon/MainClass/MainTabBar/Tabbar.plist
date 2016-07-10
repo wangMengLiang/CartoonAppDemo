@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>className</key>
+		<string>LovelyInfoViewController</string>
+		<key>image</key>
+		<string>item1</string>
+		<key>title</key>
+		<string>萌资讯</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>漫画</string>
+		<key>image</key>
+		<string>item2</string>
+		<key>className</key>
+		<string>CartoonViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>美图</string>
+		<key>image</key>
+		<string>item3</string>
+		<key>className</key>
+		<string>PictureViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>萌窝</string>
+		<key>image</key>
+		<string>item4</string>
+		<key>className</key>
+		<string>MeViewController</string>
+	</dict>
+</array>
+</plist>
